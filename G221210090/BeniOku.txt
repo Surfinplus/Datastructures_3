@@ -1,0 +1,1 @@
+geçersiz sayılar girildiğinde geçersiz işlem desede mutasyon caprazlama veya otomatik geçersiz işlem tamamlandı desede işlemi gerçekleştirmeden populasyonu aynı şekilde bırakıp müdahale etmiyor.
